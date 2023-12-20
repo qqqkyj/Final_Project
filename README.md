@@ -179,6 +179,7 @@
 
 ### 강연주
 - 채팅구현
+![채팅영상2](https://github.com/qqqkyj/Final_Project/assets/48308120/3913ba69-41f0-4d70-839a-c535d2fb3a5e)
 
 
 ### 김석진 
